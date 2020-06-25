@@ -12,4 +12,4 @@ intuito de ilustrar o funcionamento e aplicação deste método, foi realizado t
 problemas reais, por meio da implementação deste método no ambiente integral de
 desenvolvimento Arena
 
-![](https://github.com/jacksonn455/Processamento-de-imagem/blob/master/img.png)
+![](https://github.com/jacksonn455/Simulacao/blob/master/images.png)
